@@ -8,6 +8,6 @@ Inspired by Taiwan’s [Sunflower movement](https://g0v.tw/manifesto/en/) we are
 
 > "I've seen overnight some of the best technical minds in the country have been independently going through the #covidsafe app" - Greg Hunt (Australian Minister for Health and Aged Care)
 
-👉 Join our Discord Community
+## 👉 Join our Discord Community
 
 You can join our Discord Community, here is the [invite link](https://discord.gg/4xr7AW5).
